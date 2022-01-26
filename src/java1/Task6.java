@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Task6 {
     public static void main(String[] args) { //создание объекта ввода
-        System.out.println("Введите значение  числа и его степени");
+        System.out.println("Введите значение Числа и его Степени");
         Scanner scanner = new Scanner(System.in);
         //инициализация переменной из ввода
         int a = scanner.nextInt();// вывод и сохр мл разр
