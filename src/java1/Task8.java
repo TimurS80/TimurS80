@@ -13,7 +13,7 @@ public class Task8 {
         int many = scanner.nextInt();// ВВОД ВАШИХ ДЕНЮЖЕК
         double y = many / rateDollar;
         double x = many / rateEuro;
-        System.out.println("Ваши сбережения в Баксах  =" + y);
+        System.out.println("Ваши сбережения в $  =" + y);
         System.out.println("Ваши сбережения в Евро  =" + x);
     }
 }
